@@ -10,3 +10,5 @@ This plugins plugs into the 'bulk actions' menu on the "All Posts" screen.
 The plugin will loop through each post and find the SRC of the first image. It will then uploaded it to the WordPress media library and assign it as the featured image of the post.
 
 ATTENTION: If the post already has a featured image, the plugin will override it.
+
+Works on WP version 4.7 and up.
